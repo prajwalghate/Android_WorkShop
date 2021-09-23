@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831360725941",
+    "project_id": "workshopdemo-cfb3f",
+    "storage_bucket": "workshopdemo-cfb3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831360725941:android:a1c98598e281b09e1b1ffc",
+        "android_client_info": {
+          "package_name": "com.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831360725941-s53d960r2q5t3r05oj75fvu11hqo6sn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFmJ8aIHlOAQPBiIFSVJfvN5-fDCiduKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831360725941-s53d960r2q5t3r05oj75fvu11hqo6sn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
